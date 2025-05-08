@@ -1,4 +1,10 @@
-## Minhas Skills
+<h1 align="center">Olá! Eu sou o Bruno Robson 👋</h1>
+
+<p align="center">Desenvolvedor apaixonado por transformar ideias em soluções práticas. Trabalho com PHP, Laravel, Livewire e integrações com sistemas TOTVS. Curioso, autodidata e sempre em busca de novos desafios.</p>
+
+---
+
+## 🧠 Minhas Skills
 
 **Aplicações e dados**
 
@@ -37,13 +43,11 @@
 ![WebService SOAP](https://img.shields.io/badge/-WebService%20SOAP-333333?style=flat&logo=apache&logoColor=white)
 ![WSReport](https://img.shields.io/badge/-TOTVS%20WSReport-333333?style=flat&logo=report&logoColor=white)
 
+---
 
-<br/>
+## 📬 Onde me encontrar
 
-## Onde me encontrar
-
-[![LInkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/brunorobson/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/brunorobson/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:brobsonsites@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Brunorobson)
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/bruno.robson10/)
-
